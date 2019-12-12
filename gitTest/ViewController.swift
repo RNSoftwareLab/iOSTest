@@ -21,6 +21,11 @@ class ViewController: UIViewController {
         print("testing...")
     }
     
+    
+    func display()
+    {
+        print("this is srijit..")
+    }
 
 }
 
